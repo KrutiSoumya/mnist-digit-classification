@@ -1,4 +1,5 @@
 🔢 MNIST Digit Classification with Keras
+
 This project showcases two deep learning architectures to classify handwritten digits from the MNIST dataset using TensorFlow's Keras API:
 - ✅ A simple Sequential Model
 - 🔀 A more flexible Functional API Model with branching and merging layers
